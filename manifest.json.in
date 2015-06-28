@@ -1,0 +1,17 @@
+{
+    "name": "incrementexample.bogdan",
+    "description": "description of IncrementExample",
+    "architecture": "@CLICK_ARCH@",
+    "title": "IncrementExample",
+    "hooks": {
+        "IncrementExample": {
+            "apparmor": "IncrementExample/IncrementExample.apparmor",
+            "desktop":  "IncrementExample/IncrementExample.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Bogdan Olar <olar.bogdan.dev@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

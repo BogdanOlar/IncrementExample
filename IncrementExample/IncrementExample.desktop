@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IncrementExample
+Exec=IncrementExample
+Icon=IncrementExample/IncrementExample.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
